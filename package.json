@@ -1,7 +1,7 @@
 {
-  "name": "Teste-API",
+  "name": "api-chatbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "api chat",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./config/server",
